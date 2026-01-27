@@ -3,12 +3,12 @@
 A professional, high-performance portfolio website designed to bridge the gap between **Business Entrepreneurship** and **Modern Web Development**. This site showcases my journey as a KWASU graduate and a Frontend Developer specializing in building business-driven digital solutions.
 
 ## 🌐 Live Demo
-[Insert your GitHub Pages Link Here]
+[https://github.com/BIMBALLER]
 
 ## 🛠️ Tech Stack
 * **HTML5** & **Tailwind CSS** (Utility-first styling)
 * **JavaScript (ES6+)** (Interactive elements & DOM manipulation)
-* **Vercel** (Project hosting)
+* **Netlify** (Project hosting)
 * **GitHub** (Version control)
 
 ## ✨ Key Features
@@ -34,4 +34,4 @@ I am a graduate of **Entrepreneurship from Kwara State University (KWASU)**. My 
 * **Email:** abimbolaabdulmuizz@gmail.com
 
 ---
-*Built with ⚡ by Omoniyi Abimbola*# reimagined-adventure
+*Built with ⚡ by O.A.DEV*# reimagined-adventure
